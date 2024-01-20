@@ -1,0 +1,1 @@
+# min-element-in-all-subarrays
